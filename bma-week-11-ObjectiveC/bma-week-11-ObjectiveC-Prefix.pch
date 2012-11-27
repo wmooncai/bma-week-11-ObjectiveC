@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'bma-week-11-ObjectiveC' target in the 'bma-week-11-ObjectiveC' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
