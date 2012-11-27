@@ -31,6 +31,7 @@
 		3EFE0AAE1665421000C86D5D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3EFE0AB11665421000C86D5D /* bma-week-11-ObjectiveC-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bma-week-11-ObjectiveC-Prefix.pch"; sourceTree = "<group>"; };
 		3EFE0AB21665421000C86D5D /* bma_week_11_ObjectiveC.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = bma_week_11_ObjectiveC.1; sourceTree = "<group>"; };
+		3EFE0AB91665423600C86D5D /* bma-week-11-ObjectiveC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bma-week-11-ObjectiveC.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 				3EFE0AAE1665421000C86D5D /* main.m */,
 				3EFE0AB21665421000C86D5D /* bma_week_11_ObjectiveC.1 */,
 				3EFE0AB01665421000C86D5D /* Supporting Files */,
+				3EFE0AB91665423600C86D5D /* bma-week-11-ObjectiveC.h */,
 			);
 			path = "bma-week-11-ObjectiveC";
 			sourceTree = "<group>";
